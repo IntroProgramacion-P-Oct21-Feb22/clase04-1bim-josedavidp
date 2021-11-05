@@ -29,7 +29,7 @@ public class Ejemplo2 {
         nombreAsignatura1 = entrada.nextLine();
         System.out.println("Ingrese nota de asignatura 1");
         notaAsignatura1 = entrada.nextDouble();
-        System.out.println("Ingrese nombre de asignatura 2");
+        //System.out.println("Ingrese nombre de asignatura 2");
         entrada.nextLine(); // limpieza de buffer
         nombreAsignatura2 = entrada.nextLine();
         System.out.println("Ingrese nota de asignatura 2");
